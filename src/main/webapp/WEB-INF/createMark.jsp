@@ -57,7 +57,7 @@
             <button class="bg-slate-500 py-3 px-10 flex items-center justify-center rounded-md text-white">Cancel
             </button>
             <input type="submit" class="bg-indigo-500 py-3 px-10 flex items-center justify-center rounded-md text-white"
-                   value="Create Course">
+                   value="Create Mark">
         </div>
     </form>
     <p>
