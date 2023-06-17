@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+*{
+	font-family: 'Quicksand', sans-serif;
+}
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	font-family: 'Quicksand', sans-serif;
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+thead {
+	background-color: #29375A;
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+}
